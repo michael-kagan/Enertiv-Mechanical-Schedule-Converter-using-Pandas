@@ -35,8 +35,8 @@ def upload_file():
 
 	return '''
 	<!doctype html>
-	<title>Schedule Maker!!!</title>
-	<h1>Schedule Maker!!!</h1>
+	<title>Schedule Maker</title>
+	<h1>Schedule Maker</h1>
 	<body style="fontsize : large">Please upload only saved JSON files from ms1 API /location/{location_id}/equipment/
 	that have equipmentmetadata_set turned to true.....\n
 	otherwise this program won't really help you</body>
